@@ -44,11 +44,6 @@
 <a href="https://www.linkedin.com/in/joão-paulo-francisco-de-oliveira-0492a0306" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<a href="mailto:jpfranciscoo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
-<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
 </p>
 
 ---
