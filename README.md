@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">👋 Fala, eu sou João Paulo</h1>
 
-<!--
-**jpfo07/jpfo07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desenvolvedor em formação <br>
+🚀 Focado em me tornar um dev de alto nível <br>
+📚 Estudando Engenharia de Software
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+
+- 🎯 Buscando minha primeira grande oportunidade como dev  
+- 💡 Interesse em desenvolvimento web e backend  
+- ⚡ Evoluindo todos os dias com projetos e estudos  
+
+---
+
+## 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
+
+</div>
+
+---
+
+## 📌 Projetos em destaque
+
+- 🔹 Em breve... 
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/joão-paulo-francisco-de-oliveira-0492a0306" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:jpfranciscoo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">🔥 Sempre evoluindo</p>
