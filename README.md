@@ -35,8 +35,7 @@
 
 ## 📌 Projetos em destaque
 
-## Portifolio: 
-https://jpfo07.github.io/portifolio/ 
+<a href="https://www.exemplo.com](https://jpfo07.github.io/portifolio/" target="_blank">Portifolio</a>
 
 ---
 
