@@ -35,7 +35,8 @@
 
 ## 📌 Projetos em destaque
 
-- 🔹 Em breve... 
+## Portifolio: 
+https://jpfo07.github.io/portifolio/ 
 
 ---
 
