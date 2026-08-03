@@ -37,7 +37,7 @@
 
 ---
 <a href="https://jpfo07.github.io/portifolio/">
-Portifolio</a>
+Portfólio</a>
 
 ## 📫 Contato
 
